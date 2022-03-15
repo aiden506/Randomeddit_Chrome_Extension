@@ -8,6 +8,8 @@ Permissions: No extra permissions required.
 2. Select Load unpacked
 3. Select entire downloaded folder of this github repository.
 4. Extension successfully loaded
+
+
 ![image](https://user-images.githubusercontent.com/65487599/158431449-5a2d3504-5edc-43f0-85d7-238c6f63d5c7.png)
 ![image](https://user-images.githubusercontent.com/65487599/158431466-ba055591-b88b-4ee8-ab0b-406db96d4e96.png)
 
